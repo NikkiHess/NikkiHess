@@ -1,5 +1,4 @@
-[comment]: ![Banner]()
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hi! I'm Nikki Hess!</h2>
+<img alt="Hand Waving" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hi! I'm Nikki Hess!</h2>
 
 <img src="https://komarev.com/ghpvc/?username=nikkihess&label=Profile%20views&color=ff69b4&style=flat"></img>
 
